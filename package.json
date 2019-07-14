@@ -1,0 +1,15 @@
+{
+  "private": false,
+  "dependencies": {
+    "axios": "^0.19.0"
+  },
+  "scripts": {
+    "start": "now dev"
+  },
+  "name": "telegram-bot",
+  "version": "1.0.0",
+  "description": "A Telegram Bot",
+  "repository": "https://github.com/dotenorio/telegram-bot",
+  "author": "Fernando Migliorini Tenório",
+  "license": "MIT"
+}
